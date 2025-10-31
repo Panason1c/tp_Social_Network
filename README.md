@@ -8,7 +8,8 @@ Groupes, Événements, Publications et Utilisateurs.
 
 ### 1. Cloner le projet
 
-git clone https://github.com/<TON-UTILISATEUR>/<TON-REPO>.git
+git clone [https://github.com/Panason1c/tp_Social_Network.git]
+
 cd SocialNetworks
 
 ### Installer les dépendances
